@@ -52,7 +52,9 @@ The file tree of a package is as follows:
 
    Now, copy the path and enter it into your file explorer.
 
-5. Once you have opened the path, in another window, open your 
+5. Once you have opened the path, in another window, copy the folder with your package and paste in the `site-packages` directory.
 
- 
+## Documentation
+
+
 
